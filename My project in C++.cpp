@@ -1,9 +1,7 @@
 /*
-group members				ID
-Redela Anulo			NaScER/0196/13
-Fikeradiss Geletaw		NaScER/0196/13
-Kefita Kantale			NaScER/0196/13
-Nigat Abiraham			NaScER/0196/13
+
+Redela Anulo		
+
 */
 
 
